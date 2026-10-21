@@ -8,6 +8,6 @@
     "duplication": "jscpd src/ --min-lines 5 --min-tokens 30 --threshold 0 --reporters console"
   },
   "devDependencies": {
-    "jscpd": "5.2.1"
+    "jscpd": "4.3.0"
   }
 }
