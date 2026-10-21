@@ -27,7 +27,5 @@ Boundary-version methodology: 2 earliest + 1 middle + 2 latest supported Node ma
 | Family | Status |
 | --- | --- |
 | node12 | CODE-ONLY (valid source, no live tool run) |
-| node14 | CODE-ONLY (valid source, no live tool run) |
-| node20 | FINDINGS (non-Node tool; content identical across families) |
-| node24 | FINDINGS (non-Node tool; content identical across families) |
-| node26 | FINDINGS (non-Node tool; content identical across families) |
+
+This repo carries only the `node12` build.
