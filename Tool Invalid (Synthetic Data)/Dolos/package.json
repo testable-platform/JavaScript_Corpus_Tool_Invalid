@@ -5,6 +5,6 @@
   "description": "Aquarium kelp tracker for the Dolos invalid-corpus folder.",
   "type": "commonjs",
   "devDependencies": {
-    "@dodona/dolos": "2.9.3"
+    "@dodona/dolos": "2.3.0"
   }
 }
